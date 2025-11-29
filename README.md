@@ -34,6 +34,6 @@ Loss: **MSE**
 Optimizer: **Adam**  
 
 ## Results
-- MAE: **~0.393**  
+- MAE: **~0.373**  
 - Plotted Actual vs Predicted values  
 - Visualized training + validation loss curves  
