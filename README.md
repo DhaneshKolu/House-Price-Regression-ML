@@ -34,9 +34,6 @@ Loss: **MSE**
 Optimizer: **Adam**  
 
 ## Results
-- R² Score: **~X.XX**  
-- MAE: **~X.XX**  
+- MAE: **~0.393**  
 - Plotted Actual vs Predicted values  
 - Visualized training + validation loss curves  
-
-## ▶ How to Run
